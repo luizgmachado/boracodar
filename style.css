@@ -65,6 +65,8 @@ body * {
 	font-size: 36px;
   line-height: 140%;
   color: #EBEBEB;
+	overflow: hidden;
+	padding-left: 10px;
 }
 
 #keyboard {
@@ -106,6 +108,16 @@ button {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+
+	cursor: pointer;
+}
+
+button:hover { 
+	background: linear-gradient(
+	180deg, rgba(0, 0, 0, 0.05) 0%,
+	rgba(255, 255, 255, 0.05) 100%), #272431;
+	
+
 }
 
 .secondary {
@@ -115,7 +127,15 @@ button {
 .tertiary {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.05) 0.01%, rgba(255, 255, 255, 0.05) 100%), #462878;
 }
+.tertiary:hover {
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.05) 0.01%, rgba(255, 255, 255, 0.05) 100%), #331d57;
+
+}
 
 .quartiary {
 	background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%), #7F45E2;
+}
+
+.quartiary:hover {
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%), #6536b5;
 }

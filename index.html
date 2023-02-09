@@ -17,48 +17,49 @@
   <div id="calculator">
 
     <div id="display">
-      <div id="last-calc"> 1 + 1</div>
+      <div data-previous-operand id="last-calc">1 + 1</div>
       <div id="result">
-        <img src="../Calculadora/assets/iconresult.svg" alt="sinal de igual">
-        <span>2</span>
+        <img src="./assets/iconresult.svg" alt="sinal de igual">
+        <span data-current-operand>123</span>
       </div>
     </div>
 
     <div id="keyboard">
-      <button class="secondary">CE</button>
-      <button>C</button>
-      <button>%</button>
-      <button class="tertiary">
-        <img src="../Calculadora/assets/divide.svg" alt="">
+      <button data-all-clear class="secondary">CE</button>
+      <button data-delete>C</button>
+      <button data-operator class="operator">%</button>
+      <button data-operator class="tertiary operator">
+        <img src="./assets/divide.svg" alt="">
       </button>
-      <button>7</button>
-      <button>8</button>
-      <button>9</button>
-      <button class="tertiary">
-        <img src="../Calculadora/assets/x.svg" alt="multiplication">
+      <button data-number>7</button>
+      <button data-number>8</button>
+      <button data-number>9</button>
+      <button data-operator class="tertiary operator">
+        <img src="./assets/x.svg" alt="multiplication">
       </button>
-      <button>4</button>
-      <button>5</button>
-      <button>6</button>
-      <button class="tertiary">
-        <img src="../Calculadora/assets/minus.svg" alt="Minus">
+      <button data-number>4</button>
+      <button data-number>5</button>
+      <button data-number>6</button>
+      <button data-operator class="tertiary operator">
+        <img src="./assets/minus.svg" alt="Minus">
       </button>
-      <button>1</button>
-      <button>2</button>
-      <button>3</button>
-      <button class="tertiary">
-        <img src="../Calculadora/assets/plus.svg" alt="Plus">
+      <button data-number>1</button>
+      <button data-number>2</button>
+      <button data-number>3</button>
+      <button data-operator class="tertiary operator">
+        <img src="./assets/plus.svg" alt="Plus">
       </button>
       <button>
-        <img src="../Calculadora/assets/plusminus.svg" alt="PlusMinus">
+        <img src="./assets/plusminus.svg" alt="PlusMinus">
       </button>
-      <button>0</button>
-      <button>,</button>
+      <button data-number>0</button>
+      <button data-number class="span-two">,</button>
       
-      <button class="quartiary">
-        <img src="../Calculadora/assets/equals.svg" alt="Equals">
+      <button data-equals class="quartiary operator">
+        <img src="./assets/equals.svg" alt="Equals">
       </button>
     </div>
   </div>
+  <script src="/script.js"></script>
 </body>
 </html>

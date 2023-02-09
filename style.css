@@ -44,6 +44,7 @@ body * {
 #display {
   margin-top: 54px;
   padding-inline: 54px;
+	height: 86px;
 }
 
 #last-calc {
@@ -52,12 +53,14 @@ body * {
   line-height: 140%;
   color: #6B6B6B;
 	
+	
 }
 
 #result {
 	margin-top: 8px;
   display: flex;
   justify-content: space-between;
+	
  
 }
 
@@ -67,11 +70,14 @@ body * {
   color: #EBEBEB;
 	overflow: hidden;
 	padding-left: 10px;
+
+
 }
 
 #keyboard {
 	margin-top: 26px;
 	margin-inline: 32px;
+
 	
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);

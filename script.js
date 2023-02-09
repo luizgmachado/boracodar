@@ -14,8 +14,17 @@ class Calculator {
     this.clear()
   }
 
+  chooseOperation(operation) {
+    this.operation = operation
+
+    this.previousOperand = `${this.currentOperand}${this.operation}`
+    this.currentOperand = ""
+  }
+
   appendNumber(number) {
-    this.currentOperand = `${this.currentOperand}${number.toString()}`
+    if (this.currentOperand.includes(',') && number == ',') return
+ 
+  this.currentOperand = `${this.currentOperand}${number.toString()}`
   }
 
 
@@ -40,6 +49,13 @@ const calculator = new Calculator(
 for (const numberButton of numberButtons) {
   numberButton.addEventListener('click', () => {
     calculator.appendNumber(numberButton.innerText)
+    calculator.updateDisplay()
+  })
+}
+
+for (const operationButton of operationButtons) {
+  operationButton.addEventListener('click', () => {
+    calculator.chooseOperation(operationButton.innerText)
     calculator.updateDisplay()
   })
 }

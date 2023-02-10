@@ -52,16 +52,12 @@ body * {
 	font-size: 20px;
   line-height: 140%;
   color: #6B6B6B;
-	
-	
 }
 
 #result {
 	margin-top: 8px;
   display: flex;
   justify-content: space-between;
-	
- 
 }
 
 #result span {
@@ -70,8 +66,6 @@ body * {
   color: #EBEBEB;
 	overflow: hidden;
 	padding-left: 10px;
-
-
 }
 
 #keyboard {
@@ -82,7 +76,6 @@ body * {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: 12px;
-
 }
 
 button {
@@ -143,5 +136,5 @@ button:hover {
 }
 
 .quartiary:hover {
-	background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%), #6536b5;
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%), #6736bc;
 }

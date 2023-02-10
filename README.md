@@ -6,5 +6,5 @@
 
 | #    | Name           | Code    | Deploy |
 | :--- | :------------- | :------ | :------|
-| `01` | `Music Player` |  [🧬](https://github.com/luizgmachado/boracodar/tree/main/Calculadora) |[👾](https://calculateboracodar.netlify.app/) |
-| `02` | `Product Card` |  [🧬](#) |[👾](#) |
+| `01` | `Calculate` |  [🐙](https://github.com/luizgmachado/boracodar/tree/main/Calculadora) |[👾](https://calculateboracodar.netlify.app/) |
+| `02` | `BoardingPass` |  [🐙](#) |[👾](#) |

@@ -1,6 +1,4 @@
-## #boraCodar
-
-#### Projetos do #boraCodar da Rocketseat
+### Projetos do #boraCodar da Rocketseat
 
 [Paticipe dos desafios](https://boracodar.dev/)
 

@@ -5,4 +5,4 @@
 | #    | Name           | Code    | Deploy |
 | :--- | :------------- | :------ | :------|
 | `01` | `Calculate` |  [🐙](https://github.com/luizgmachado/boracodar/tree/main/Calculadora) |[👾](https://calculateboracodar.netlify.app/) |
-| `02` | `BoardingPass` |  [🐙](#) |[👾](#) |
+| `02` | `BoardingPass` |  [🐙](#) |[👾](https://boardingpass.netlify.app/) |

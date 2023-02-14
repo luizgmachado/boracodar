@@ -2,11 +2,7 @@
 Tabelas de Projetos do #boracodar 
  1. [Calculate](#calculate)
  2. [BoardingPass](#boardingPass)
-
-  
-  <a href="#-boardingPass">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+ 
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />

@@ -47,15 +47,17 @@ header {
 
 	padding: 24px 32px;
 	gap: 24px;
-  
+
 	width: 327px;
 	height: 191px;
 	border-radius: 24px;
-  background-color: #fff;
-    background-image: 
-    radial-gradient(circle at left bottom, #5e38b8 16px, transparent 0),
-    radial-gradient(circle at right bottom, #5d3caa 16px, transparent 0);
-
+	background-color: #fff;
+	background-image: radial-gradient(
+			circle at left bottom,
+			#4e328f 18px,
+			transparent 0
+		),
+		radial-gradient(circle at right bottom, #4e328f 18px, transparent 0);
 }
 
 .heading {
@@ -90,6 +92,7 @@ header {
 .main p {
 	font-size: 12px;
 	line-height: 17px;
+	color: rgba(0, 0, 0, 0.64);
 }
 
 .main .plus {
@@ -110,45 +113,58 @@ header {
 }
 
 #passenger {
-  border-top: 1px dashed rgba(0, 0, 0, 0.32);
+	border-top: 1px dashed rgba(0, 0, 0, 0.32);
 
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: 24px 32px;
-  gap: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 24px 32px;
+	gap: 20px;
 
-  width: 327px;
-  height: 84px;
+	width: 327px;
+	height: 84px;
 
-  border-radius: 24px;
-  background-color: #fff;
-    background-image: 
-			radial-gradient(circle at left top, #4e328f 16px, transparent 0),
-			radial-gradient(circle at right bottom, #4e328f 16px, transparent 0),
-			radial-gradient(circle at left bottom, #4e328f 16px, transparent 0),
-			radial-gradient(circle at right top, #4e328f 16px, transparent 0);
-  }
+	border-radius: 24px;
+	background-color: #fff;
+	background-image: radial-gradient(
+			circle at left top,
+			#4e328f 18px,
+			transparent 0
+		),
+		radial-gradient(circle at right bottom, #4e328f 18px, transparent 0),
+		radial-gradient(circle at left bottom, #4e328f 18px, transparent 0),
+		radial-gradient(circle at right top, #4e328f 18px, transparent 0);
+}
 
-
+#passenger > div:nth-child(2) {
+	text-align: end;
+}
+#passenger p {
+	color: rgba(0, 0, 0, 0.64);
+}
+#passenger span {
+	color: rgba(0, 0, 0, 0.88);
+}
 
 #boarding {
 	border-radius: 24px;
 
-  background-color: #fff;
-    background-image: 
-			radial-gradient(circle at left top, #4e328f 16px, transparent 0),
-			radial-gradient(circle at right top, #4e328f 16px, transparent 0);
+	background-color: #fff;
+	background-image: radial-gradient(
+			circle at left top,
+			#4e328f 18px,
+			transparent 0
+		),
+		radial-gradient(circle at right top, #4e328f 18px, transparent 0);
 
-	
 	border-top: 1px dashed rgba(0, 0, 0, 0.32);
 
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-areas:
 		"A B "
-    "C C ";
+		"C C ";
 	align-items: center;
 	justify-content: center;
 	padding: 24px 32px;
@@ -159,14 +175,69 @@ header {
 }
 
 #boarding div:nth-child(1) {
-    grid-area: A; 
-  }
+	grid-area: A;
+}
 
 #boarding div:nth-child(2) {
-    grid-area: B;
-  }
+	grid-area: B;
+}
 
 #boarding div:nth-child(3) {
-    grid-area: C;
-		text-align: center;
+	grid-area: C;
+	text-align: center;
+}
+
+#boarding p {
+	letter-spacing: -0.02em;
+	font-size: 14px;
+	line-height: 17px;
+	color: rgba(0, 0, 0, 0.64);
+}
+
+#boarding span:nth-child(4) {
+	display: block;
+	margin-bottom: 16px;
+}
+
+#boarding span:nth-child(2) {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	gap: 8px;
+	padding: 4px 8px;
+
+	margin-bottom: 16px;
+
+	width: 54px;
+	height: 27px;
+
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	color: #fff;
+
+	background: rgba(99, 59, 188, 1);
+	border-radius: 8px;
+}
+
+#boarding span {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+footer {
+	margin-top: 20px;
+
+	font-size: 14px;
+	line-height: 24px;
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+	letter-spacing: -0.02em;
+
+	color: #ffffff;
+
+	opacity: 0.64;
 }

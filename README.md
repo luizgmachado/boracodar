@@ -9,10 +9,6 @@ Tabelas de Projetos do #boracodar
  1. [Calculate](#calculate)
  2. [BoardingPass](#boardingPass)
  
-
-
-
-
 ### Projetos do #boraCodar da Rocketseat
 
 [Paticipe dos desafios](https://boracodar.dev/)

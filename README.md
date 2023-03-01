@@ -8,6 +8,7 @@
 Tabelas de Projetos do #boracodar 
  1. [Calculate](#calculate)
  2. [BoardingPass](#boardingPass)
+ 3. [Bloco de Carnaval](#blocoCarnaval)
  
 ### Projetos do #boraCodar da Rocketseat
 

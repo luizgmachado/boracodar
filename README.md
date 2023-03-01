@@ -8,11 +8,8 @@
 Tabelas de Projetos do #boracodar 
  1. [Calculate](#calculate)
  2. [BoardingPass](#boardingPass)
+ 3. [Bloco de Carnaval](#blocoCarnaval)
  
-
-
-
-
 ### Projetos do #boraCodar da Rocketseat
 
 [Paticipe dos desafios](https://boracodar.dev/)
@@ -56,7 +53,36 @@ Tecnologias
 - CSS
 - git & github
 
+#
 
-## :memo: Licença
+<div id='blocoCarnaval'/> 
 
-> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+## 🔖 blocoCarnaval
+
+Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
+
+<p align="center">
+  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/218799568-c3e2d0d4-8565-4e3e-ab14-6b259d5fc2c2.png" width="40%">
+</p>
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+- Figma
+- Phosphor Icons
+
+**O que podemos extrair desse desafio:**
+
+- Input, Select e Button customizados
+- Uso de ícones e fontes customizdas
+- HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
+- CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
+- Novo DevTools do Edge
+
+
+### :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+#

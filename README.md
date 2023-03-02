@@ -80,9 +80,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 - Novo DevTools do Edge
 
+#
 
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
-#

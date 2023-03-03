@@ -9,6 +9,7 @@ Tabelas de Projetos do #boracodar
  1. [Calculate](#calculate)
  2. [BoardingPass](#boardingPass)
  3. [Carnival block](#blocoCarnaval)
+ 4. [Dashboard](#dashboard)
  
 ### Projetos do #boraCodar da Rocketseat
 
@@ -82,9 +83,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #
 
-<div id='blocoCarnaval'/> 
+<div id='dashboard'/> 
 
-## 🔖 blocoCarnaval
+## 🔖 Dashboard 
 
 Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
 
@@ -100,7 +101,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - https://bennettfeely.com/clippy/
 
-## 📚 ** O que podemos extrair desse desafio:**
+** 📚 O que podemos extrair desse desafio:**
 
 ```md
 # CSS

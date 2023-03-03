@@ -87,7 +87,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Dashboard 
 
-Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
+Você pode visualizar o Deploy do projeto através [DESSE LINK](https://dashboardexplore.netlify.app/).
 
 <p align="center">
   <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/222816592-a93e3f23-fed8-4c6f-bc9b-073e9f036a4c.png" width="100%">

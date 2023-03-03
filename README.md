@@ -72,13 +72,71 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - Phosphor Icons
 
-**O que podemos extrair desse desafio:**
+**📚 O que podemos extrair desse desafio:**
 
 - Input, Select e Button customizados
 - Uso de ícones e fontes customizdas
 - HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 - Novo DevTools do Edge
+
+#
+
+<div id='blocoCarnaval'/> 
+
+## 🔖 blocoCarnaval
+
+Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
+
+<p align="center">
+  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/222816592-a93e3f23-fed8-4c6f-bc9b-073e9f036a4c.png" width="100%">
+</p>
+
+
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML, CSS e SVG
+- Figma
+- https://bennettfeely.com/clippy/
+
+## 📚 ** O que podemos extrair desse desafio:**
+
+```md
+# CSS
+
+- aplicar variável pelo atributo HTML
+- animations / @keyframes
+- column-gap / row-gap
+- grid-template-columns / grid-template-rows / grid-column / grid-auto-flow
+- fit-content
+- margin-top: auto
+- place-content / align-self / justify-items / justify-content
+- centralizar div com position/grid/flex/margin
+- :nth-child() / ::before
+- transform / matrix() / rotate()
+- stroke / dasharray / dashoffset / stroke-width / linecap
+- fill
+- responsividade / mobile first / @media
+- clip-path / polygon
+- linear-gradient()
+- calc()
+
+# SVG
+
+- viewBox
+- circle
+- cx / cy
+- r
+- stroke
+- defs
+- linearGradient
+```
+
+## 🍩 Estudos sobre Donut Chart
+
+https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
+
 
 #
 

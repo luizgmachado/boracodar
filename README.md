@@ -144,7 +144,7 @@ https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
 <div id='currencyConverter'/> 
 #
 
-## 🔖 Dashboard 
+## 🔖 #Currency Converter
 
 Você pode visualizar o Deploy do projeto através [DESSE LINK](https://dashboardexplore.netlify.app/).
 

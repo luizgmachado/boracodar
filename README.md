@@ -103,7 +103,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - https://bennettfeely.com/clippy/
 
-** 📚 O que podemos extrair desse desafio:**
+**📚 O que podemos extrair desse desafio:**
 
 ```md
 # CSS
@@ -160,7 +160,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Apex Charts](https://apexcharts.com/)
 - [Flag Icons](https://github.com/lipis/flag-icons)
 
-** 📚 O que podemos extrair desse desafio:**
+**📚 O que podemos extrair desse desafio:**
 
 - `outline` x `border` CSS property
 - Custom `<select>`
@@ -169,6 +169,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Configuração do Apex Charts
 - `String()` e `.replace()`
 - muito mais...
+
+#
 
 ### :memo: Licença
 

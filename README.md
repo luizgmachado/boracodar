@@ -10,7 +10,7 @@ Tabelas de Projetos do #boracodar
  2. [BoardingPass](#boardingPass)
  3. [Carnival block](#blocoCarnaval)
  4. [Dashboard](#dashboard)
- 5. [Currency Converter](#currencyConverter)
+ 5. [Conversor de moedas](#currencyConverter)
  
 ### Projetos do #boraCodar da Rocketseat
 

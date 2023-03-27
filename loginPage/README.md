@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e DOM
 - Figma
 
-## 📚 Um poudo do que vimos nesse desafio
+## 📚 Um pouco do que vimos nesse desafio
 
 - propriedades CSS `all`, `position`, `top`, `right`, `margin-block`, `flex`, `outline`
 - seletores CSS `> *`, `+`, `:focus`. `:disabled`, `:hover`, `::-ms-reveal`

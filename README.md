@@ -175,6 +175,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 #Uma página de login
 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+![image](https://user-images.githubusercontent.com/108701750/228041099-34f67361-c898-4570-9121-e1a0868c41b2.png)
+
 <br>
 
 <p align="center">
@@ -196,10 +200,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - responsividade
 - Javascript: variáveis, estrutura de repetição, condicionais (if/else) e ternários
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ### :memo: Licença
 

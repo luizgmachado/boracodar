@@ -173,13 +173,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div id='loginPage'/> 
 
-## 🔖 #loginPage
-
-<h1 align="center"> Uma página de login </h1>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## 🔖 #Uma página de login
 
 <br>
 

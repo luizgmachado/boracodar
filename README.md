@@ -60,7 +60,8 @@ Tecnologias
 
 <div id='blocoCarnaval'/> 
 
-## 🔖 blocoCarnaval
+### 🔖 blocoCarnaval
+
 
 Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figma.com/community/file/1207675804423978995).
 
@@ -87,16 +88,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div id='dashboard'/> 
 
-## 🔖 Dashboard 
+### 🔖 Dashboard 
 
 Você pode visualizar o Deploy do projeto através [DESSE LINK](https://dashboardexplore.netlify.app/).
 
 <p align="center">
   <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/222819895-8e4dc418-9bd5-4fc0-8c32-3a11d731e461.png" width="100%">
 </p>
-
-
-
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -142,10 +140,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
 
 #
-<div id='currencyConverter'/> 
-#
 
-## 🔖 #Currency Converter
+<div id='currencyConverter'/> 
+
+
+### 🔖 #Currency Converter
 
 Você pode visualizar o Deploy do projeto através [DESSE LINK](#).
 
@@ -173,7 +172,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div id='loginPage'/> 
 
-## 🔖 #Uma página de login
+### 🔖 #Uma página de login
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -200,6 +199,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - responsividade
 - Javascript: variáveis, estrutura de repetição, condicionais (if/else) e ternários
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
+
+#
 
 ### :memo: Licença
 

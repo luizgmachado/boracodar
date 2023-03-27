@@ -10,6 +10,7 @@ Tabelas de Projetos do #boracodar
  2. [BoardingPass](#boardingPass)
  3. [Carnival block](#blocoCarnaval)
  4. [Dashboard](#dashboard)
+ 5. [Conversor de moedas](#currencyConverter)
  
 ### Projetos do #boraCodar da Rocketseat
 
@@ -102,7 +103,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 - https://bennettfeely.com/clippy/
 
-** 📚 O que podemos extrair desse desafio:**
+**📚 O que podemos extrair desse desafio:**
 
 ```md
 # CSS
@@ -139,6 +140,35 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
 
+#
+<div id='currencyConverter'/> 
+#
+
+## 🔖 #Currency Converter
+
+Você pode visualizar o Deploy do projeto através [DESSE LINK](#).
+
+<p align="center">
+  <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/223853216-bbb67a6e-71bc-4e94-8a89-99c9083c9faf.png" width="100%">
+</p>
+
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML, CSS e JS
+- Figma
+- [Apex Charts](https://apexcharts.com/)
+- [Flag Icons](https://github.com/lipis/flag-icons)
+
+**📚 O que podemos extrair desse desafio:**
+
+- `outline` x `border` CSS property
+- Custom `<select>`
+- Ícones com bandeiras `flag icons`
+- Gráfico de area `area chart`
+- Configuração do Apex Charts
+- `String()` e `.replace()`
+- muito mais...
 
 #
 

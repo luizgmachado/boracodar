@@ -207,6 +207,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div id='kanBan'/> 
 
+### 🔖 #Meu KanBan
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+![image](#4)
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- 
+- 
+- 
+
+## 📚 Um pouco do que vimos nesse desafio
+
+- 
+- 
+- 
+- 
+- 
+
+#
+
 
 
 ### :memo: Licença

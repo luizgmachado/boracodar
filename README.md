@@ -12,6 +12,7 @@ Tabelas de Projetos do #boracodar
  4. [Dashboard](#dashboard)
  5. [Conversor de moedas](#currencyConverter)
  6. [Página de Login](#loginPage)
+ 7. [Meu KanBan](#kanBan)
  
 ### Projetos do #boraCodar da Rocketseat
 
@@ -203,6 +204,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
 
 #
+
+<div id='calculate'/> 
+
+
 
 ### :memo: Licença
 

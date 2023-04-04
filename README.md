@@ -211,7 +211,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-![image](#4)
+![image](https://user-images.githubusercontent.com/108701750/229905036-26fa8066-f0eb-40ce-8bff-7df4de1ce39e.png)
 
 <br>
 
@@ -219,9 +219,8 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- 
-- 
-- 
+- HTML e CSS
+- Figma
 
 ## 📚 Um pouco do que vimos nesse desafio
 

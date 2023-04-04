@@ -12,6 +12,7 @@ Tabelas de Projetos do #boracodar
  4. [Dashboard](#dashboard)
  5. [Conversor de moedas](#currencyConverter)
  6. [Página de Login](#loginPage)
+ 7. [Meu KanBan](#kanBan)
  
 ### Projetos do #boraCodar da Rocketseat
 
@@ -50,8 +51,9 @@ Você pode visualizar o Deploy do projeto através 🔗 [desse link](https://boa
 </p>
 
 
+## 🚀 Tecnologias
 
-Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - git & github
@@ -68,6 +70,8 @@ Você pode visualizar o Deploy do projeto através [DESSE LINK](https://www.figm
 <p align="center">
   <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/222225555-bdd479e4-e7fc-48ff-8f8e-e3011776efbf.png" width="100%">
 </p>
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -95,6 +99,8 @@ Você pode visualizar o Deploy do projeto através [DESSE LINK](https://dashboar
 <p align="center">
   <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/222819895-8e4dc418-9bd5-4fc0-8c32-3a11d731e461.png" width="100%">
 </p>
+
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -152,6 +158,7 @@ Você pode visualizar o Deploy do projeto através [DESSE LINK](#).
   <img alt="projeto GitFavorites" src="https://user-images.githubusercontent.com/108701750/223853216-bbb67a6e-71bc-4e94-8a89-99c9083c9faf.png" width="100%">
 </p>
 
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -197,6 +204,36 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
 
 #
+
+<div id='kanBan'/> 
+
+### 🔖 #Meu KanBan
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1217810469465160264). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+![image](#4)
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- 
+- 
+- 
+
+## 📚 Um pouco do que vimos nesse desafio
+
+- 
+- 
+- 
+- 
+- 
+
+#
+
+
 
 ### :memo: Licença
 

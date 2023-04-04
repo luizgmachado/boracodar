@@ -224,14 +224,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Um pouco do que vimos nesse desafio
 
-- 
-- 
-- 
-- 
-- 
+Input, Select e Button customizados
+- Uso de ícones e fontes customizdas
+- HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
+- CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 
 #
-
 
 
 ### :memo: Licença

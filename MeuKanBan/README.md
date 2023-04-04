@@ -1,4 +1,4 @@
-<h1 align="center"> Um Kanban </h1>
+<h1 align="center"> Meu Kanban </h1>
 
 <p align="center">
 <a href="https://www.rocketseat.com.br/boracodar">#boraCodar</a> são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src="https://user-images.githubusercontent.com/108701750/229905036-26fa8066-f0eb-40ce-8bff-7df4de1ce39e.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,5 +36,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

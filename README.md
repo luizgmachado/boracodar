@@ -263,7 +263,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <br>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src="https://user-images.githubusercontent.com/108701750/230503421-5367baa8-f609-4266-a44f-a0552d1828d8.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

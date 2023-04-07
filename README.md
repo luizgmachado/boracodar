@@ -25,7 +25,6 @@ Tabelas de Projetos do #boracodar
 
 
 
-
 ### 🔖 Calculate
 
 Você pode visualizar o Deploy do projeto através 🔗 [desse link](https://calculateboracodar.netlify.app/).
@@ -43,6 +42,7 @@ Tecnologias
 - git & github
 
 #
+
 
 
 
@@ -161,6 +161,7 @@ https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
 
 
 
+
 <div id='currencyConverter'/> 
 
 
@@ -218,6 +219,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
 
 #
+
 
 
 

@@ -19,7 +19,6 @@ Tabelas de Projetos do #boracodar
 ### Projetos do #boraCodar da Rocketseat
 
 [Paticipe dos desafios](https://boracodar.dev/)
-
 #
 
 
@@ -41,7 +40,6 @@ Tecnologias
 - CSS
 - JavaScript 
 - git & github
-
 #
 
 
@@ -64,7 +62,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - git & github
-
 #
 
 
@@ -97,7 +94,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 - Novo DevTools do Edge
-
 #
 
 
@@ -157,7 +153,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🍩 Estudos sobre Donut Chart
 
 https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
-
 #
 
 
@@ -218,7 +213,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - responsividade
 - Javascript: variáveis, estrutura de repetição, condicionais (if/else) e ternários
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
-
 #
 
 
@@ -247,7 +241,6 @@ Input, Select e Button customizados
 - Uso de ícones e fontes customizdas
 - HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
-
 #
 
 
@@ -273,8 +266,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e DOM
 - [iMask](http://imask.js.org/)
 - Figma
-
 #
+
+
+
+
 
 <div id='fileupload'/> 
 
@@ -296,6 +292,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e DOM
 - Phosphor Icons
 - Figma
+#
+
 
 
 

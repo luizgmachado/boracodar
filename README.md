@@ -283,7 +283,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1225440656930547927). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <p align="center">
-  <img alt="projeto GitFavorites" src="" width="100%">
+  <img alt="#" src="https://user-images.githubusercontent.com/108701750/232624730-88826b71-3cab-455f-bfd3-7a7965b971a0.png" width="100%">
 </p>
 
 <br>

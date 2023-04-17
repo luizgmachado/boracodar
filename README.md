@@ -14,6 +14,7 @@ Tabelas de Projetos do #boracodar
  6. [Página de Login](#loginPage)
  7. [Meu KanBan](#kanBan)
  8. [Um Formulário de Cartão](#cardForm)
+ 9. [Componete Upload](#fileupload)
  
 ### Projetos do #boraCodar da Rocketseat
 
@@ -46,7 +47,7 @@ Tecnologias
 
 
 
-<div id='boardingPass'/> 
+<div id='boardingPass'/>  
 
 ### 🔖 BoardingPass
 
@@ -275,6 +276,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #
 
+<div id='fileupload'/> 
+
+### 🔖 #Um componente de upload
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1225440656930547927). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+<p align="center">
+  <img alt="projeto GitFavorites" src="" width="100%">
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript e DOM
+- Phosphor Icons
+- Figma
 
 
 

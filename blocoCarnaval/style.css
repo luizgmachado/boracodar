@@ -178,7 +178,9 @@ select,
 
 select {
   z-index: 1;
+  padding: 0 1rem;
 }
+
 
 .select i.ph-caret-down-light {
   position: absolute;

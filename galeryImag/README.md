@@ -12,9 +12,17 @@
 
 <br>
 
+
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src="https://github.com/luizgmachado/boracodar/assets/108701750/c967b9e6-7511-4ef1-ae71-f27e8d7c78a8" width="100%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/luizgmachado/boracodar/assets/108701750/f3f353ea-dca6-4a7d-8aeb-91ccf44e65c0" width="50%">
+</p>
+
+
+
 
 ## 🚀 Tecnologias
 

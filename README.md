@@ -319,6 +319,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <p align="center">
   <img src="https://github.com/luizgmachado/boracodar/assets/108701750/f3f353ea-dca6-4a7d-8aeb-91ccf44e65c0" width="50%">
 </p>
+#
 
 
 

@@ -297,9 +297,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 <div id='galleryphoto'/> 
-<h1 align="center"> Galeria de Fotos </h1>
 
-<br>
+### 🔖 Galeria de Fotos
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1230513627011474566). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 
 <p align="center">
@@ -312,8 +313,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 #
 
 
-
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -321,11 +320,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Ion Icons
 - Figma
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1230513627011474566). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 
 
 

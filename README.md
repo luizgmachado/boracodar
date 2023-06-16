@@ -41,8 +41,12 @@ Tecnologias
 - CSS
 - JavaScript 
 - git & github
-#
 
+<br>
+
+---
+
+<br>
 
 
 
@@ -63,7 +67,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - git & github
-#
+
+<br>
+
+---
+
+<br>
 
 
 
@@ -95,9 +104,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
 - Novo DevTools do Edge
-#
 
+<br>
 
+---
+
+<br>
 
 
 <div id='dashboard'/> 
@@ -154,9 +166,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🍩 Estudos sobre Donut Chart
 
 https://www.fronteditor.dev/gists/e7d5a452582ebe081f81dee776bca246/view
-#
 
 
+<br>
+
+---
+
+<br>
 
 
 <div id='currencyConverter'/> 
@@ -214,9 +230,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - responsividade
 - Javascript: variáveis, estrutura de repetição, condicionais (if/else) e ternários
 - DOM: `querySelectorAll()`, `getAttribute()`, `setAttribute()`, `classList`, `.toggle()`
-#
 
+<br>
 
+---
+
+<br>
 
 
 <div id='kanBan'/> 
@@ -242,9 +261,13 @@ Input, Select e Button customizados
 - Uso de ícones e fontes customizdas
 - HTML: `form`,`header`,`main`,`section`,`form`,`select`,`img`,
 - CSS: `all`, `overflow`, `::before`, `::after`, `rem`, `position`, `fit-content`, `flex e grid`, `@media`, `responsividade`
-#
 
 
+<br>
+
+---
+
+<br>
 
 
 <div id='cardForm'/>  
@@ -267,10 +290,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e DOM
 - [iMask](http://imask.js.org/)
 - Figma
-#
 
 
+<br>
 
+---
+
+<br>
 
 
 <div id='fileupload'/> 
@@ -293,7 +319,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript e DOM
 - Phosphor Icons
 - Figma
-#
+
+
+<br>
+
+---
+
+<br>
 
 
 <div id='galleryphoto'/> 
@@ -310,7 +342,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <p align="center">
   <img src="https://github.com/luizgmachado/boracodar/assets/108701750/f3f353ea-dca6-4a7d-8aeb-91ccf44e65c0" width="50%">
 </p>
-#
 
 
 ## 🚀 Tecnologias
@@ -321,6 +352,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Ion Icons
 - Figma
 
+<br>
+
+---
+
+<br>
 
 
 ### :memo: Licença

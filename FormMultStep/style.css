@@ -1,0 +1,27 @@
+/** @format */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+	font-size: 62.5%;
+
+	--color-base-white: #ffffff;
+	--color-base-gray-100: #e1e1e6;
+	--color-base-gray-200: #8c8c99;
+	--color-base-gray-300: #7c7c8a;
+	--color-base-gray-400: #323238;
+	--color-feedback-sucess-color: #1d8841;
+	--color-produto-purple-light: #8257e5;
+	--color-produto-purple-mid: #633bbc;
+}
+
+body {
+	font-size: 1.6rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+}

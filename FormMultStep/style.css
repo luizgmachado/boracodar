@@ -1,4 +1,3 @@
-/** @format */
 
 * {
 	margin: 0;
@@ -21,7 +20,170 @@
 	--color-produto-purple-mid: #633bbc;
 }
 
-body {
+html, body, input, textarea, button {
 	font-size: 1.6rem;
   font-family: 'IBM Plex Sans', sans-serif;
 }
+
+body {
+	height: 100vh;
+
+	display: grid;
+	place-content: center;
+}
+
+form {
+	padding: 3.2rem;
+	border: 1px solid var(--color-base-gray-100);
+	border-radius: .6rem;
+}
+
+.step-progress {
+	display: flex;
+	align-items: center;
+	gap: 4rem;
+
+	border-bottom: 1px solid var(--color-base-gray-100);
+	padding: 3.2rem;
+
+	counter-reset: step;
+}
+
+.step-progress strong {
+	display: flex;
+	align-items: center;
+	gap: .8rem;
+
+	color: var(--color-base-gray-200);
+}
+
+.step-progress strong.active {
+	color: var(--color-base-gray-400);
+}
+
+.step-progress .active::before {
+	background: var(--color-produto-purple-mid);
+	color: var(--color-base-white);
+}
+.step-progress strong::before {
+	counter-increment: step;
+	content: counter(step);
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.4rem;
+	width: 2.8rem;
+	height: 2.8rem;
+	border-radius: 50%;
+	background: var(--color-base-gray-100);
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	color: var(--color-base-gray-200);
+
+}
+
+.step-progress strong svg {
+	width: 2.4rem;
+	height: 2.4rem;
+}
+
+.step-progress .done::before {
+	content: '✓';
+	background: var(--color-feedback-sucess-color);
+	color: var(--color-base-white);
+
+}
+
+.content {
+	margin-top: 3.2rem;
+  display: grid;
+	gap: 1.6rem;
+
+}
+
+.button-wrapper {
+	margin-top: 3.2rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+.btn {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 1.6rem 3.2rem;
+
+	border: 0;
+	border-radius: .6rem;
+
+	font-weight: 700;
+
+	text-transform: uppercase;
+	
+	cursor: pointer;
+	min-width: 15.8rem;
+
+}
+
+.primary {
+	background: var(--color-produto-purple-mid);
+	color: var(--color-base-white);
+	transition: background .2s;
+}
+
+.primary:hover {
+	background: var(--color-produto-purple-light);
+
+}
+
+.secondary {
+	background: var(--color-base-white);
+	color: var(--color-produto-purple-mid);
+	border: 1px solid var(--color-produto-purple-mid);
+	transition: background .2s;
+}
+
+.secondary:hover {
+
+	color: var(--color-produto-purple-light);
+}
+
+.justify-end {
+	justify-content: flex-end;
+}
+
+label {
+	font-weight: 700;
+	color: var(--color-base-gray-400);
+}
+
+input, textarea {
+	width: 100%;
+  margin-top: .4rem;
+
+  padding: 1.6rem;
+	background-color: var(--color-base-white);
+  border: 1px solid var(--color-base-gray-100);
+
+	border-radius: .6rem;
+
+}
+
+input::placeholder, textarea::placeholder {
+	color: var(--color-base-gray-200);
+	
+}
+
+input:focus, textarea:focus {
+	border: 1px solid var(--color-produto-purple-mid);
+}
+
+.form-step {
+	display: none;
+}
+
+.form-step.active {
+	display: block;
+}
+

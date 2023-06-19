@@ -1,6 +1,6 @@
 
 let currentStep = 0
-const formStep = document.querySelectorAll('.form-step')
+const formSteps = document.querySelectorAll('.form-step')
 const form = document.querySelector('form')
 
 // Clique de passos
@@ -12,7 +12,7 @@ form.addEventListener('click', (e) => {
 
   const actions = {
     next() {
-      if(!isValidInput()){
+      if (!isValidInputs()) {
         return
       }
       currentStep++
@@ -25,20 +25,27 @@ form.addEventListener('click', (e) => {
   const action = e.target.dataset.action
   actions[action]()
 
-  console.log(currentStep)
+
   updateActiveStep()
   updateProgressStep()
-  })
+})
 
 // envio do formulário
 form.addEventListener('submit', (e) => {
   e.preventDefault()
+
+  const data = new FormData(form)
+
+  for(let [key, value] of data ) {
+  console.log(key, value)}
+
+  // alert(`Obrigado ${data.get('name')}!`)
 })
 
 // atualização dos passos
 function updateActiveStep() {
-  formStep.forEach((step) => step.classList.remove('active'))
-  formStep[currentStep].classList.add('active')
+  formSteps.forEach((step) => step.classList.remove('active'))
+  formSteps[currentStep].classList.add('active')
 }
 const progressStep = document.querySelectorAll('.step-progress [data-step]')
 function updateProgressStep() {
@@ -46,7 +53,7 @@ function updateProgressStep() {
     step.classList.remove('active')
     step.classList.remove('done')
 
-    if (index < currentStep +1) {
+    if (index < currentStep + 1) {
       step.classList.add('active')
     }
 
@@ -58,10 +65,21 @@ function updateProgressStep() {
 
 // validação do formulário
 
-function isValidInput() {
-  const correntForm = formStep[currentStep]
+function isValidInputs() {
+  const correntFormStep = formSteps[currentStep]
   const formFields = [...correntFormStep.querySelectorAll('input'), ...correntFormStep.querySelectorAll('textarea')]
 
   return formFields.every((input) => input.reportValidity())
 
 }
+
+// animation
+formSteps.forEach(formStep => {
+  function addHide() {
+    formStep.classList.add('hide')
+  }
+  formStep.addEventListener('animationend', () => {
+    addHide()
+    formSteps[currentStep].classList.remove('hide')
+  })
+})
